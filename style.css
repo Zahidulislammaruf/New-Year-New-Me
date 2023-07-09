@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.headersection{
+    height: 100vh;
+    background-image: url('images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headpart{
+    float: right;
+    padding-right: 230px;
+}
+.headtitle{
+    display: flex;
+    width: 525px;
+    flex-direction: column;
+ 
+    margin-top: 216px;
+    color: var(--dark-01, #151414);
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+ 
+    font-weight: 700;
+    margin-left: 845px;
+
+    
+}
+.headpara{
+    display: flex;
+    width: 494px;
+    flex-direction: column;
+    color: var(--dark-02, #444343);
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 876px;
+    margin-top: 30px;
+}
+.headbtn{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+   font-size: 20px;
+   font-weight: 600;
+   margin-left: 1210px;
+   margin-top: 30px;
+   
+}
