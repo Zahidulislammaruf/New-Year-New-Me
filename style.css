@@ -49,10 +49,10 @@
     color: #FFF;
     text-align: center;
     font-family: Work Sans;
-   font-size: 20px;
-   font-weight: 600;
-   margin-left: 1210px;
-   margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 1210px;
+    margin-top: 30px;
    
 }
 .bodycontainer{
@@ -142,5 +142,61 @@
 }
 .picture2{
     background-image: url('images/gradient2.png');
+}
+.footmain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #151414;
+}
+.Subscribe{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.footerheading{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-weight: 600;
+}
+.infobox{
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    margin-top: 20px;
+
+}
+.footbtn{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+
+}
+.footpara{
+    display: flex;
+    width: 485px;
+    flex-direction: column;
+    color: #FFF;
+   font-family: Work Sans;
+   font-size: 16px;
+  
+   font-weight: 400;
+   line-height: 26px;
+   margin-top: 10px;
+
+}
+.imgpara{
+    margin-top: 18px;
 }
 
