@@ -162,7 +162,7 @@
 }
 .infobox{
     width: 325px;
-    height: 64px;
+    height: 45px;
     border-radius: 8px;
     border: 1px solid #FFF;
     margin-top: 20px;
@@ -199,4 +199,7 @@
 .imgpara{
     margin-top: 18px;
 }
+
+
+
 
